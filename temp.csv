@@ -1,0 +1,2974 @@
+m,r,n
+"{
+  identity: 19,
+  labels: [Actor],
+  properties: {
+    dob: 1971-01-07,
+    apellido: Renner,
+    actor_id: 2,
+    sexo: Masculino,
+    nombre: Jeremy,
+    edad: 52
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:19
+}","{
+  identity: 6,
+  start: 19,
+  end: 21,
+  type: actuo,
+  properties: {
+    personaje: Ian Donnelly,
+    rol: Principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:6,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:19,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:21
+}","{
+  identity: 21,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Doce naves extraterrestres comienzan a llegar a nuestro planeta. Los altos mandos militares piden ayuda a una experta lingüista para intentar averiguar si los alienígenas vienen en son de paz o suponen una amenaza. Poco a poco la mujer intentará aprender a comunicarse con los extraños invasores, poseedores de un lenguaje propio, para dar con la verdadera y misteriosa razón de la visita extraterrestre.,
+    país: Estados Unidos,
+    release_date: 2016-06-11,
+    rating: 4.6,
+    duracion: 116,
+    movie_id: 2,
+    nombre: Arrival
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:21
+}"
+"{
+  identity: 19,
+  labels: [Actor],
+  properties: {
+    dob: 1971-01-07,
+    apellido: Renner,
+    actor_id: 2,
+    sexo: Masculino,
+    nombre: Jeremy,
+    edad: 52
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:19
+}","{
+  identity: 7,
+  start: 19,
+  end: 23,
+  type: actuo,
+  properties: {
+    personaje: Hawkeye,
+    rol: Secundario
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:7,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:19,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:23
+}","{
+  identity: 23,
+  labels: [Pelicula],
+  properties: {
+    descripcion: El director de la Agencia SHIELD decide reclutar a un equipo para salvar al mundo de un desastre casi seguro cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial.,
+    país: Estados Unidos,
+    release_date: 2012-05-04,
+    rating: 4.5,
+    duracion: 143,
+    movie_id: 1,
+    nombre: The Avengers
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:23
+}"
+"{
+  identity: 22,
+  labels: [Actor],
+  properties: {
+    dob: 1965-04-04,
+    apellido: Downey Jr.,
+    actor_id: 1,
+    sexo: Masculino,
+    nombre: Robert,
+    edad: 58
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:22
+}","{
+  identity: 8,
+  start: 22,
+  end: 23,
+  type: actuo,
+  properties: {
+    personaje: Iron Man,
+    rol: Secundario
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:8,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:22,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:23
+}","{
+  identity: 23,
+  labels: [Pelicula],
+  properties: {
+    descripcion: El director de la Agencia SHIELD decide reclutar a un equipo para salvar al mundo de un desastre casi seguro cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial.,
+    país: Estados Unidos,
+    release_date: 2012-05-04,
+    rating: 4.5,
+    duracion: 143,
+    movie_id: 1,
+    nombre: The Avengers
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:23
+}"
+"{
+  identity: 32,
+  labels: [Actor, Director],
+  properties: {
+    dob: 1966-10-19,
+    apellido: Favreu,
+    actor_id: 3,
+    edad: 56,
+    nombre: Jon,
+    director_id: 3
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:32
+}","{
+  identity: 9,
+  start: 32,
+  end: 34,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:9,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:32,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:34
+}","{
+  identity: 34,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Aunque ha sido adoptado y educado como un duende de Papá Noel, Buddy quiere conocer a su verdadera familia y, en Navidad, se dirige a Nueva York.,
+    país: Estados Unidos,
+    release_date: 2003-11-06,
+    rating: 4.2,
+    duracion: 96,
+    movie_id: 5,
+    nombre: Elf
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:34
+}"
+"{
+  identity: 32,
+  labels: [Actor, Director],
+  properties: {
+    dob: 1966-10-19,
+    apellido: Favreu,
+    actor_id: 3,
+    edad: 56,
+    nombre: Jon,
+    director_id: 3
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:32
+}","{
+  identity: 10,
+  start: 32,
+  end: 33,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:10,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:32,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:33
+}","{
+  identity: 33,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tony Stark es un inventor de armamento brillante que es secuestrado en el extranjero. Sus captores son unos terroristas que le obligan a construir una máquina destructiva pero Tony se construirá una armadura para poder enfrentarse a ellos y escapar.,
+    país: Estados Unidos,
+    release_date: 2008-05-02,
+    rating: 4.5,
+    duracion: 143,
+    movie_id: 4,
+    nombre: Iron Man
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:33
+}"
+"{
+  identity: 32,
+  labels: [Actor, Director],
+  properties: {
+    dob: 1966-10-19,
+    apellido: Favreu,
+    actor_id: 3,
+    edad: 56,
+    nombre: Jon,
+    director_id: 3
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:32
+}","{
+  identity: 11,
+  start: 32,
+  end: 33,
+  type: actuo,
+  properties: {
+    personaje: Happy Hogan,
+    rol: Secundario
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:11,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:32,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:33
+}","{
+  identity: 33,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tony Stark es un inventor de armamento brillante que es secuestrado en el extranjero. Sus captores son unos terroristas que le obligan a construir una máquina destructiva pero Tony se construirá una armadura para poder enfrentarse a ellos y escapar.,
+    país: Estados Unidos,
+    release_date: 2008-05-02,
+    rating: 4.5,
+    duracion: 143,
+    movie_id: 4,
+    nombre: Iron Man
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:33
+}"
+"{
+  identity: 19,
+  labels: [Actor],
+  properties: {
+    dob: 1971-01-07,
+    apellido: Renner,
+    actor_id: 2,
+    sexo: Masculino,
+    nombre: Jeremy,
+    edad: 52
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:19
+}","{
+  identity: 15,
+  start: 19,
+  end: 50,
+  type: actuo,
+  properties: {
+    personaje: Hawkeye,
+    rol: Secundario
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:15,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:19,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:50
+}","{
+  identity: 50,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tony Stark quiere lanzar un nuevo programa de paz, pero algo sale mal y acaba creando a Ultrón, un robot que quiere destruir a la humanidad. Thor, Hulk y el resto de los Vengadores deberán juntar sus fuerzas una vez más para luchar contra el robot. En su camino para destruir Ultrón, los Vengadores conocerán a dos nuevos misteriosos compañeros, Pietro y Wanda Maximoff, conocidos como Quicksilver y Bruja Escarlata.,
+    país: Estados Unidos,
+    release_date: 2015-05-01,
+    rating: 4.0,
+    duracion: 141,
+    movie_id: 29,
+    nombre: Avengers: Age of Ultron
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:50
+}"
+"{
+  identity: 22,
+  labels: [Actor],
+  properties: {
+    dob: 1965-04-04,
+    apellido: Downey Jr.,
+    actor_id: 1,
+    sexo: Masculino,
+    nombre: Robert,
+    edad: 58
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:22
+}","{
+  identity: 16,
+  start: 22,
+  end: 50,
+  type: actuo,
+  properties: {
+    personaje: Iron Man,
+    rol: Principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:16,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:22,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:50
+}","{
+  identity: 50,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tony Stark quiere lanzar un nuevo programa de paz, pero algo sale mal y acaba creando a Ultrón, un robot que quiere destruir a la humanidad. Thor, Hulk y el resto de los Vengadores deberán juntar sus fuerzas una vez más para luchar contra el robot. En su camino para destruir Ultrón, los Vengadores conocerán a dos nuevos misteriosos compañeros, Pietro y Wanda Maximoff, conocidos como Quicksilver y Bruja Escarlata.,
+    país: Estados Unidos,
+    release_date: 2015-05-01,
+    rating: 4.0,
+    duracion: 141,
+    movie_id: 29,
+    nombre: Avengers: Age of Ultron
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:50
+}"
+"{
+  identity: 22,
+  labels: [Actor],
+  properties: {
+    dob: 1965-04-04,
+    apellido: Downey Jr.,
+    actor_id: 1,
+    sexo: Masculino,
+    nombre: Robert,
+    edad: 58
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:22
+}","{
+  identity: 17,
+  start: 22,
+  end: 33,
+  type: actuo,
+  properties: {
+    personaje: Iron Man,
+    rol: Principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:17,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:22,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:33
+}","{
+  identity: 33,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tony Stark es un inventor de armamento brillante que es secuestrado en el extranjero. Sus captores son unos terroristas que le obligan a construir una máquina destructiva pero Tony se construirá una armadura para poder enfrentarse a ellos y escapar.,
+    país: Estados Unidos,
+    release_date: 2008-05-02,
+    rating: 4.5,
+    duracion: 143,
+    movie_id: 4,
+    nombre: Iron Man
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:33
+}"
+"{
+  identity: 22,
+  labels: [Actor],
+  properties: {
+    dob: 1965-04-04,
+    apellido: Downey Jr.,
+    actor_id: 1,
+    sexo: Masculino,
+    nombre: Robert,
+    edad: 58
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:22
+}","{
+  identity: 18,
+  start: 22,
+  end: 51,
+  type: actuo,
+  properties: {
+    personaje: Iron Man,
+    rol: Principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:18,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:22,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:51
+}","{
+  identity: 51,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Con el mundo ahora consciente de que él es Iron Man, el millonario inventor Tony Stark debe forjar nuevas alianzas y enfrentarse a un nuevo y poderoso enemigo.,
+    país: Estados Unidos,
+    release_date: 2010-05-08,
+    rating: 3.9,
+    duracion: 125,
+    movie_id: 19,
+    nombre: Iron Man 2
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:51
+}"
+"{
+  identity: 40,
+  labels: [Actor],
+  properties: {
+    dob: 1948-12-21,
+    apellido: Jackson,
+    actor_id: 12,
+    sexo: Masculino,
+    nombre: Samuel,
+    edad: 74
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:40
+}","{
+  identity: 19,
+  start: 40,
+  end: 51,
+  type: actuo,
+  properties: {
+    personaje: Nick Fury,
+    rol: Secundario
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:19,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:40,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:51
+}","{
+  identity: 51,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Con el mundo ahora consciente de que él es Iron Man, el millonario inventor Tony Stark debe forjar nuevas alianzas y enfrentarse a un nuevo y poderoso enemigo.,
+    país: Estados Unidos,
+    release_date: 2010-05-08,
+    rating: 3.9,
+    duracion: 125,
+    movie_id: 19,
+    nombre: Iron Man 2
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:51
+}"
+"{
+  identity: 40,
+  labels: [Actor],
+  properties: {
+    dob: 1948-12-21,
+    apellido: Jackson,
+    actor_id: 12,
+    sexo: Masculino,
+    nombre: Samuel,
+    edad: 74
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:40
+}","{
+  identity: 20,
+  start: 40,
+  end: 33,
+  type: actuo,
+  properties: {
+    personaje: Nick Fury,
+    rol: Cameo
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:20,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:40,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:33
+}","{
+  identity: 33,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tony Stark es un inventor de armamento brillante que es secuestrado en el extranjero. Sus captores son unos terroristas que le obligan a construir una máquina destructiva pero Tony se construirá una armadura para poder enfrentarse a ellos y escapar.,
+    país: Estados Unidos,
+    release_date: 2008-05-02,
+    rating: 4.5,
+    duracion: 143,
+    movie_id: 4,
+    nombre: Iron Man
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:33
+}"
+"{
+  identity: 40,
+  labels: [Actor],
+  properties: {
+    dob: 1948-12-21,
+    apellido: Jackson,
+    actor_id: 12,
+    sexo: Masculino,
+    nombre: Samuel,
+    edad: 74
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:40
+}","{
+  identity: 21,
+  start: 40,
+  end: 23,
+  type: actuo,
+  properties: {
+    personaje: Nick Fury,
+    rol: Secundario
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:21,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:40,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:23
+}","{
+  identity: 23,
+  labels: [Pelicula],
+  properties: {
+    descripcion: El director de la Agencia SHIELD decide reclutar a un equipo para salvar al mundo de un desastre casi seguro cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial.,
+    país: Estados Unidos,
+    release_date: 2012-05-04,
+    rating: 4.5,
+    duracion: 143,
+    movie_id: 1,
+    nombre: The Avengers
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:23
+}"
+"{
+  identity: 40,
+  labels: [Actor],
+  properties: {
+    dob: 1948-12-21,
+    apellido: Jackson,
+    actor_id: 12,
+    sexo: Masculino,
+    nombre: Samuel,
+    edad: 74
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:40
+}","{
+  identity: 22,
+  start: 40,
+  end: 50,
+  type: actuo,
+  properties: {
+    personaje: Nick Fury,
+    rol: Secundario
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:22,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:40,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:50
+}","{
+  identity: 50,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tony Stark quiere lanzar un nuevo programa de paz, pero algo sale mal y acaba creando a Ultrón, un robot que quiere destruir a la humanidad. Thor, Hulk y el resto de los Vengadores deberán juntar sus fuerzas una vez más para luchar contra el robot. En su camino para destruir Ultrón, los Vengadores conocerán a dos nuevos misteriosos compañeros, Pietro y Wanda Maximoff, conocidos como Quicksilver y Bruja Escarlata.,
+    país: Estados Unidos,
+    release_date: 2015-05-01,
+    rating: 4.0,
+    duracion: 141,
+    movie_id: 29,
+    nombre: Avengers: Age of Ultron
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:50
+}"
+"{
+  identity: 40,
+  labels: [Actor],
+  properties: {
+    dob: 1948-12-21,
+    apellido: Jackson,
+    actor_id: 12,
+    sexo: Masculino,
+    nombre: Samuel,
+    edad: 74
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:40
+}","{
+  identity: 23,
+  start: 40,
+  end: 67,
+  type: actuo,
+  properties: {
+    personaje: Narrador,
+    rol: Secundario
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:23,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:40,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:67
+}","{
+  identity: 67,
+  labels: [Pelicula],
+  properties: {
+    descripcion: II Guerra Mundial, Francia, Shosanna presencia la ejecución de su familia por orden del coronel nazi Hans Landa. Huye a Paris y adopta una nueva identidad como propietaria de un cine. Mientras el teniente Aldo Raine adiestra a un grupo de soldados judíos. Los hombres de Raine y una actriz alemana que agente doble, deben llevar a cabo una misión que hará caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse.,
+    país: Estados Unidos,
+    release_date: 2009-08-21,
+    rating: 4.5,
+    duracion: 153,
+    movie_id: 75,
+    nombre: Inglourious Basterds
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:67
+}"
+"{
+  identity: 68,
+  labels: [Actor],
+  properties: {
+    dob: 1942-12-18,
+    apellido: Pitt,
+    actor_id: 26,
+    sexo: Masculino,
+    edad: 59,
+    nombre: Brad
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:68
+}","{
+  identity: 24,
+  start: 68,
+  end: 67,
+  type: actuo,
+  properties: {
+    personaje: Aldo Raine,
+    rol: Principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:24,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:68,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:67
+}","{
+  identity: 67,
+  labels: [Pelicula],
+  properties: {
+    descripcion: II Guerra Mundial, Francia, Shosanna presencia la ejecución de su familia por orden del coronel nazi Hans Landa. Huye a Paris y adopta una nueva identidad como propietaria de un cine. Mientras el teniente Aldo Raine adiestra a un grupo de soldados judíos. Los hombres de Raine y una actriz alemana que agente doble, deben llevar a cabo una misión que hará caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse.,
+    país: Estados Unidos,
+    release_date: 2009-08-21,
+    rating: 4.5,
+    duracion: 153,
+    movie_id: 75,
+    nombre: Inglourious Basterds
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:67
+}"
+"{
+  identity: 40,
+  labels: [Actor],
+  properties: {
+    dob: 1948-12-21,
+    apellido: Jackson,
+    actor_id: 12,
+    sexo: Masculino,
+    nombre: Samuel,
+    edad: 74
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:40
+}","{
+  identity: 25,
+  start: 40,
+  end: 42,
+  type: actuo,
+  properties: {
+    personaje: Jules Winnfield,
+    rol: Principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:25,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:40,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:42
+}","{
+  identity: 42,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Historias de dos matones, un boxeador y una pareja de atracadores de poca monta envueltos en una violencia espectacular e irónica.,
+    país: Estados Unidos,
+    release_date: 1994-10-14,
+    rating: 4.8,
+    duracion: 154,
+    movie_id: 9,
+    nombre: Pulp Fiction
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:42
+}"
+"{
+  identity: 36,
+  labels: [Director],
+  properties: {
+    dob: 1968-09-10,
+    apellido: Ritchie,
+    sexo: Masculino,
+    nombre: Guy,
+    edad: 54,
+    director_id: 4
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:36
+}","{
+  identity: 26,
+  start: 36,
+  end: 35,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:26,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:36,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:35
+}","{
+  identity: 35,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Sherlock Holmes y su incondicional compañero Watson, deberán usar su agudeza intelectual y toda clase de recursos y habilidades para enfrentarse a un nuevo enemigo y desenmarañar un complot que podría destruir el país. Adaptación del cómic de Lionel Wigram, que reinventa los personajes de Arthur Conan Doyle, convirtiendo a Sherlock Holmes y al Doctor John Watson en detectives con habilidades para el boxeo y la esgrima respectivamente.,
+    país: Estados Unidos,
+    release_date: 2009-12-25,
+    rating: 4.0,
+    duracion: 128,
+    movie_id: 8,
+    nombre: Sherlock Holmes
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:35
+}"
+"{
+  identity: 22,
+  labels: [Actor],
+  properties: {
+    dob: 1965-04-04,
+    apellido: Downey Jr.,
+    actor_id: 1,
+    sexo: Masculino,
+    nombre: Robert,
+    edad: 58
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:22
+}","{
+  identity: 27,
+  start: 22,
+  end: 35,
+  type: actuo,
+  properties: {
+    personaje: Sherlock Holmes,
+    rol: Principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:27,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:22,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:35
+}","{
+  identity: 35,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Sherlock Holmes y su incondicional compañero Watson, deberán usar su agudeza intelectual y toda clase de recursos y habilidades para enfrentarse a un nuevo enemigo y desenmarañar un complot que podría destruir el país. Adaptación del cómic de Lionel Wigram, que reinventa los personajes de Arthur Conan Doyle, convirtiendo a Sherlock Holmes y al Doctor John Watson en detectives con habilidades para el boxeo y la esgrima respectivamente.,
+    país: Estados Unidos,
+    release_date: 2009-12-25,
+    rating: 4.0,
+    duracion: 128,
+    movie_id: 8,
+    nombre: Sherlock Holmes
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:35
+}"
+"{
+  identity: 61,
+  labels: [Actor],
+  properties: {
+    dob: 1942-07-13,
+    apellido: Ford,
+    actor_id: 68,
+    sexo: Masculino,
+    nombre: Harrison,
+    edad: 80
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:61
+}","{
+  identity: 29,
+  start: 61,
+  end: 62,
+  type: actuo,
+  properties: {
+    personaje: Indiana Jones,
+    rol: Principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:29,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:61,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:62
+}","{
+  identity: 62,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Después de una infructuosa misión en Sudamérica, el Gobierno estadounidense encarga al arqueólogo Indiana Jones la búsqueda del Arca de la Alianza, una reliquia bíblica que contiene los diez mandamientos y que convierte en invencible a su portador. Jones deberá enfrentarse a los nazis para adquirir este precioso objeto.,
+    país: Estados Unidos,
+    release_date: 1981-06-12,
+    rating: 4.5,
+    duracion: 115,
+    movie_id: 78,
+    nombre: Indiana Jones and Raiders of the Lost Ark
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:62
+}"
+"{
+  identity: 61,
+  labels: [Actor],
+  properties: {
+    dob: 1942-07-13,
+    apellido: Ford,
+    actor_id: 68,
+    sexo: Masculino,
+    nombre: Harrison,
+    edad: 80
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:61
+}","{
+  identity: 30,
+  start: 61,
+  end: 63,
+  type: actuo,
+  properties: {
+    personaje: Indiana Jones,
+    rol: Principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:30,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:61,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:63
+}","{
+  identity: 63,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tras salir vivo de milagro de una peligrosa aventura en Shanghai, Indiana Jones llega a un remoto poblado en la India, acompañado de dos involuntarios compañeros de viaje: Willie, una cantante de cabaret, y un chaval de 12 años llamado Tapón.,
+    país: Estados Unidos,
+    release_date: 1984-05-23,
+    rating: 4.3,
+    duracion: 118,
+    movie_id: 77,
+    nombre: Indiana Jones and The Temple of Doom
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:63
+}"
+"{
+  identity: 61,
+  labels: [Actor],
+  properties: {
+    dob: 1942-07-13,
+    apellido: Ford,
+    actor_id: 68,
+    sexo: Masculino,
+    nombre: Harrison,
+    edad: 80
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:61
+}","{
+  identity: 31,
+  start: 61,
+  end: 64,
+  type: actuo,
+  properties: {
+    personaje: Indiana Jones,
+    rol: Principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:31,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:61,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:64
+}","{
+  identity: 64,
+  labels: [Pelicula],
+  properties: {
+    descripcion: En esta tercera entrega, el padre del protagonista, Henry Jones, también arqueólogo, es secuestrado cuando buscaba el Santo Grial. Indiana tendrá que ir a rescatarlo y, de paso, intentar hacerse con la preciada reliquia, que también ambicionan los nazis.,
+    país: Estados Unidos,
+    release_date: 1989-05-24,
+    rating: 4.4,
+    duracion: 128,
+    movie_id: 71,
+    nombre: Indiana Jones and The Last Crusade
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:64
+}"
+"{
+  identity: 66,
+  labels: [Director],
+  properties: {
+    dob: 1946-12-18,
+    apellido: Spielberg,
+    sexo: Masculino,
+    nombre: Steven,
+    edad: 76,
+    director_id: 50
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:66
+}","{
+  identity: 32,
+  start: 66,
+  end: 64,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:32,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:66,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:64
+}","{
+  identity: 64,
+  labels: [Pelicula],
+  properties: {
+    descripcion: En esta tercera entrega, el padre del protagonista, Henry Jones, también arqueólogo, es secuestrado cuando buscaba el Santo Grial. Indiana tendrá que ir a rescatarlo y, de paso, intentar hacerse con la preciada reliquia, que también ambicionan los nazis.,
+    país: Estados Unidos,
+    release_date: 1989-05-24,
+    rating: 4.4,
+    duracion: 128,
+    movie_id: 71,
+    nombre: Indiana Jones and The Last Crusade
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:64
+}"
+"{
+  identity: 66,
+  labels: [Director],
+  properties: {
+    dob: 1946-12-18,
+    apellido: Spielberg,
+    sexo: Masculino,
+    nombre: Steven,
+    edad: 76,
+    director_id: 50
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:66
+}","{
+  identity: 33,
+  start: 66,
+  end: 63,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:33,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:66,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:63
+}","{
+  identity: 63,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tras salir vivo de milagro de una peligrosa aventura en Shanghai, Indiana Jones llega a un remoto poblado en la India, acompañado de dos involuntarios compañeros de viaje: Willie, una cantante de cabaret, y un chaval de 12 años llamado Tapón.,
+    país: Estados Unidos,
+    release_date: 1984-05-23,
+    rating: 4.3,
+    duracion: 118,
+    movie_id: 77,
+    nombre: Indiana Jones and The Temple of Doom
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:63
+}"
+"{
+  identity: 66,
+  labels: [Director],
+  properties: {
+    dob: 1946-12-18,
+    apellido: Spielberg,
+    sexo: Masculino,
+    nombre: Steven,
+    edad: 76,
+    director_id: 50
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:66
+}","{
+  identity: 34,
+  start: 66,
+  end: 62,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:34,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:66,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:62
+}","{
+  identity: 62,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Después de una infructuosa misión en Sudamérica, el Gobierno estadounidense encarga al arqueólogo Indiana Jones la búsqueda del Arca de la Alianza, una reliquia bíblica que contiene los diez mandamientos y que convierte en invencible a su portador. Jones deberá enfrentarse a los nazis para adquirir este precioso objeto.,
+    país: Estados Unidos,
+    release_date: 1981-06-12,
+    rating: 4.5,
+    duracion: 115,
+    movie_id: 78,
+    nombre: Indiana Jones and Raiders of the Lost Ark
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:62
+}"
+"{
+  identity: 61,
+  labels: [Actor],
+  properties: {
+    dob: 1942-07-13,
+    apellido: Ford,
+    actor_id: 68,
+    sexo: Masculino,
+    nombre: Harrison,
+    edad: 80
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:61
+}","{
+  identity: 35,
+  start: 61,
+  end: 58,
+  type: actuo,
+  properties: {
+    personaje: Rick Deckard,
+    rol: Principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:35,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:61,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:58
+}","{
+  identity: 58,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Al final del siglo XX, miles de hombres y mujeres dejaron la Tierra para conquistar el espacio y escapar de las grandes ciudades, que se habían vuelto inhabitables. En las colonias nació una nueva raza de esclavos androides llamados 'Replicantes'. Los nuevos androides son parecidos al hombre, pero superiores en fuerza y agilidad. Después de una revolución, el antiguo policía Rick Deckard debe encontrar y eliminar a los replicantes rebeldes.,
+    país: Estados Unidos,
+    release_date: 1982-06-25,
+    rating: 4.5,
+    duracion: 117,
+    movie_id: 82,
+    nombre: Blade Runner
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:58
+}"
+"{
+  identity: 61,
+  labels: [Actor],
+  properties: {
+    dob: 1942-07-13,
+    apellido: Ford,
+    actor_id: 68,
+    sexo: Masculino,
+    nombre: Harrison,
+    edad: 80
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:61
+}","{
+  identity: 36,
+  start: 61,
+  end: 70,
+  type: actuo,
+  properties: {
+    personaje: Rick Deckard,
+    rol: Principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:36,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:61,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:70
+}","{
+  identity: 70,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tras la rebelión de los replicantes creados por bioingeniería para ser utilizados como mano de obra esclava y la prohibición a Tyrell Corporation de seguir con su fabricación, el empresario Niander Wallace adquirió lo que quedaba de Tyrell Corp. y creó una nueva línea de replicantes mucho más obedientes. Ahora, en el año 2049, los viejos modelos Nexus 8 que continúan con vida están siendo retirados. Los que les persiguen aún reciben el nombre de Blade Runner.,
+    país: Estados Unidos,
+    release_date: 2017-10-06,
+    rating: 4.6,
+    duracion: 163,
+    movie_id: 100,
+    nombre: Blade Runner 2049
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:70
+}"
+"{
+  identity: 27,
+  labels: [Director],
+  properties: {
+    dob: 1967-10-03,
+    apellido: Villeneuve,
+    sexo: Masculino,
+    nombre: Denis,
+    edad: 55,
+    director_id: 2
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:27
+}","{
+  identity: 37,
+  start: 27,
+  end: 70,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:37,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:27,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:70
+}","{
+  identity: 70,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tras la rebelión de los replicantes creados por bioingeniería para ser utilizados como mano de obra esclava y la prohibición a Tyrell Corporation de seguir con su fabricación, el empresario Niander Wallace adquirió lo que quedaba de Tyrell Corp. y creó una nueva línea de replicantes mucho más obedientes. Ahora, en el año 2049, los viejos modelos Nexus 8 que continúan con vida están siendo retirados. Los que les persiguen aún reciben el nombre de Blade Runner.,
+    país: Estados Unidos,
+    release_date: 2017-10-06,
+    rating: 4.6,
+    duracion: 163,
+    movie_id: 100,
+    nombre: Blade Runner 2049
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:70
+}"
+"{
+  identity: 27,
+  labels: [Director],
+  properties: {
+    dob: 1967-10-03,
+    apellido: Villeneuve,
+    sexo: Masculino,
+    nombre: Denis,
+    edad: 55,
+    director_id: 2
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:27
+}","{
+  identity: 38,
+  start: 27,
+  end: 21,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:38,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:27,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:21
+}","{
+  identity: 21,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Doce naves extraterrestres comienzan a llegar a nuestro planeta. Los altos mandos militares piden ayuda a una experta lingüista para intentar averiguar si los alienígenas vienen en son de paz o suponen una amenaza. Poco a poco la mujer intentará aprender a comunicarse con los extraños invasores, poseedores de un lenguaje propio, para dar con la verdadera y misteriosa razón de la visita extraterrestre.,
+    país: Estados Unidos,
+    release_date: 2016-06-11,
+    rating: 4.6,
+    duracion: 116,
+    movie_id: 2,
+    nombre: Arrival
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:21
+}"
+"{
+  identity: 57,
+  labels: [Director],
+  properties: {
+    dob: 1937-11-30,
+    apellido: Scott,
+    sexo: Masculino,
+    nombre: Ridley,
+    edad: 85,
+    director_id: 42
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:57
+}","{
+  identity: 39,
+  start: 57,
+  end: 58,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:39,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:57,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:58
+}","{
+  identity: 58,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Al final del siglo XX, miles de hombres y mujeres dejaron la Tierra para conquistar el espacio y escapar de las grandes ciudades, que se habían vuelto inhabitables. En las colonias nació una nueva raza de esclavos androides llamados 'Replicantes'. Los nuevos androides son parecidos al hombre, pero superiores en fuerza y agilidad. Después de una revolución, el antiguo policía Rick Deckard debe encontrar y eliminar a los replicantes rebeldes.,
+    país: Estados Unidos,
+    release_date: 1982-06-25,
+    rating: 4.5,
+    duracion: 117,
+    movie_id: 82,
+    nombre: Blade Runner
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:58
+}"
+"{
+  identity: 57,
+  labels: [Director],
+  properties: {
+    dob: 1937-11-30,
+    apellido: Scott,
+    sexo: Masculino,
+    nombre: Ridley,
+    edad: 85,
+    director_id: 42
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:57
+}","{
+  identity: 40,
+  start: 57,
+  end: 55,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:40,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:57,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:55
+}","{
+  identity: 55,
+  labels: [Pelicula],
+  properties: {
+    descripcion: La tripulación del remolcador espacial Nostromo atiende una señal de socorro y, sin saberlo, sube a bordo una letal forma de vida extraterrestre.,
+    país: Estados Unidos,
+    release_date: 1979-09-06,
+    rating: 4.7,
+    duracion: 117,
+    movie_id: 42,
+    nombre: Alien
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:55
+}"
+"{
+  identity: 49,
+  labels: [Director],
+  properties: {
+    dob: 1954-03-27,
+    apellido: Cameron,
+    sexo: Masculino,
+    nombre: James,
+    edad: 68,
+    director_id: 40
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:49
+}","{
+  identity: 41,
+  start: 49,
+  end: 54,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:41,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:49,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:54
+}","{
+  identity: 54,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tras escapar de la nave Nostromo, la teniente Ripley tiene que enfrentarse de nuevo a los aliens en una colonia minera.,
+    país: Estados Unidos,
+    release_date: 1986-07-15,
+    rating: 4.8,
+    duracion: 107,
+    movie_id: 42,
+    nombre: Aliens
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:54
+}"
+"{
+  identity: 49,
+  labels: [Director],
+  properties: {
+    dob: 1954-03-27,
+    apellido: Cameron,
+    sexo: Masculino,
+    nombre: James,
+    edad: 68,
+    director_id: 40
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:49
+}","{
+  identity: 42,
+  start: 49,
+  end: 52,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:42,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:49,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:52
+}","{
+  identity: 52,
+  labels: [Pelicula],
+  properties: {
+    descripcion: En el año 2029 las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para eliminarlo y así acabar con la rebelión, las máquinas envían al pasado el robot Terminator con la misión de matar a Sarah Connor, la madre de John, e impedir así su nacimiento. Sin embargo, un hombre del futuro intentará protegerla.,
+    país: Estados Unidos,
+    release_date: 1984-10-26,
+    rating: 4.2,
+    duracion: 107,
+    movie_id: 45,
+    nombre: The Terminator
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:52
+}"
+"{
+  identity: 49,
+  labels: [Director],
+  properties: {
+    dob: 1954-03-27,
+    apellido: Cameron,
+    sexo: Masculino,
+    nombre: James,
+    edad: 68,
+    director_id: 40
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:49
+}","{
+  identity: 43,
+  start: 49,
+  end: 53,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:43,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:49,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:53
+}","{
+  identity: 53,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Algunos años antes, un viajero del tiempo le reveló a la madre de John que su hijo sería el salvador de la humanidad. Cuando un nuevo androide mejorado llega del futuro para asesinar a John, un viejo modelo será enviado para protegerle.,
+    país: Estados Unidos,
+    release_date: 1991-07-03,
+    rating: 4.8,
+    duracion: 107,
+    movie_id: 44,
+    nombre: Terminator 2: Judgment Day
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:53
+}"
+"{
+  identity: 49,
+  labels: [Director],
+  properties: {
+    dob: 1954-03-27,
+    apellido: Cameron,
+    sexo: Masculino,
+    nombre: James,
+    edad: 68,
+    director_id: 40
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:49
+}","{
+  identity: 44,
+  start: 49,
+  end: 46,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:49,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:46
+}","{
+  identity: 46,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Jack es un joven artista que gana un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo del buque conoce a Rose, una chica de clase alta que viaja con su madre y su prometido Cal, un millonario engreído a quien solo interesa el prestigio de la familia de su prometida. Jack y Rose se enamoran a pesar de las trabas que ponen la madre de ella y Cal en su relación. Mientras, el lujoso transatlántico se acerca a un inmenso iceberg.,
+    país: Estados Unidos,
+    release_date: 1997-12-19,
+    rating: 4.4,
+    duracion: 161,
+    movie_id: 14,
+    nombre: Titanic
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:46
+}"
+"{
+  identity: 45,
+  labels: [Actor],
+  properties: {
+    dob: 1974-11-11,
+    apellido: DiCaprio,
+    actor_id: 22,
+    sexo: Masculino,
+    nombre: Leonardo,
+    edad: 48
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:45
+}","{
+  identity: 45,
+  start: 45,
+  end: 46,
+  type: actuo,
+  properties: {
+    personaje: Jack Dawson,
+    rol: principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:45,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:45,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:46
+}","{
+  identity: 46,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Jack es un joven artista que gana un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo del buque conoce a Rose, una chica de clase alta que viaja con su madre y su prometido Cal, un millonario engreído a quien solo interesa el prestigio de la familia de su prometida. Jack y Rose se enamoran a pesar de las trabas que ponen la madre de ella y Cal en su relación. Mientras, el lujoso transatlántico se acerca a un inmenso iceberg.,
+    país: Estados Unidos,
+    release_date: 1997-12-19,
+    rating: 4.4,
+    duracion: 161,
+    movie_id: 14,
+    nombre: Titanic
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:46
+}"
+"{
+  identity: 45,
+  labels: [Actor],
+  properties: {
+    dob: 1974-11-11,
+    apellido: DiCaprio,
+    actor_id: 22,
+    sexo: Masculino,
+    nombre: Leonardo,
+    edad: 48
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:45
+}","{
+  identity: 52,
+  start: 45,
+  end: 44,
+  type: actuo,
+  properties: {
+    personaje: Rick Dalton,
+    rol: principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:52,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:45,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44
+}","{
+  identity: 44,
+  labels: [Pelicula],
+  properties: {
+    descripcion: A finales de los 60, Hollywood empieza a cambiar y el actor Rick Dalton tratará de seguir el cambio. Junto a su doble, ambos verán como sus raíces les complican el cambio, y al mismo tiempo su relación con la actriz Sharon Tate, que fue víctima de los Manson en la matanza de 1969, y que esta acaba de casarse con el prestigioso director Roman Polanski.,
+    país: Estados Unidos,
+    release_date: 2019-07-26,
+    rating: 4.4,
+    duracion: 161,
+    movie_id: 14,
+    nombre: Once Upon a Time in Hollywood
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44
+}"
+"{
+  identity: 68,
+  labels: [Actor],
+  properties: {
+    dob: 1942-12-18,
+    apellido: Pitt,
+    actor_id: 26,
+    sexo: Masculino,
+    edad: 59,
+    nombre: Brad
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:68
+}","{
+  identity: 53,
+  start: 68,
+  end: 44,
+  type: actuo,
+  properties: {
+    personaje: Cliff Booth,
+    rol: secundario
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:53,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:68,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44
+}","{
+  identity: 44,
+  labels: [Pelicula],
+  properties: {
+    descripcion: A finales de los 60, Hollywood empieza a cambiar y el actor Rick Dalton tratará de seguir el cambio. Junto a su doble, ambos verán como sus raíces les complican el cambio, y al mismo tiempo su relación con la actriz Sharon Tate, que fue víctima de los Manson en la matanza de 1969, y que esta acaba de casarse con el prestigioso director Roman Polanski.,
+    país: Estados Unidos,
+    release_date: 2019-07-26,
+    rating: 4.4,
+    duracion: 161,
+    movie_id: 14,
+    nombre: Once Upon a Time in Hollywood
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44
+}"
+"{
+  identity: 60,
+  labels: [Actor],
+  properties: {
+    dob: 1949-10-08,
+    apellido: Weaver,
+    actor_id: 69,
+    sexo: Femenino,
+    nombre: Sigourney,
+    edad: 73
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:60
+}","{
+  identity: 58,
+  start: 60,
+  end: 55,
+  type: actuo,
+  properties: {
+    personaje: Ellen Ripley,
+    rol: principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:58,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:60,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:55
+}","{
+  identity: 55,
+  labels: [Pelicula],
+  properties: {
+    descripcion: La tripulación del remolcador espacial Nostromo atiende una señal de socorro y, sin saberlo, sube a bordo una letal forma de vida extraterrestre.,
+    país: Estados Unidos,
+    release_date: 1979-09-06,
+    rating: 4.7,
+    duracion: 117,
+    movie_id: 42,
+    nombre: Alien
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:55
+}"
+"{
+  identity: 60,
+  labels: [Actor],
+  properties: {
+    dob: 1949-10-08,
+    apellido: Weaver,
+    actor_id: 69,
+    sexo: Femenino,
+    nombre: Sigourney,
+    edad: 73
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:60
+}","{
+  identity: 59,
+  start: 60,
+  end: 54,
+  type: actuo,
+  properties: {
+    personaje: Ellen Ripley,
+    rol: principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:59,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:60,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:54
+}","{
+  identity: 54,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tras escapar de la nave Nostromo, la teniente Ripley tiene que enfrentarse de nuevo a los aliens en una colonia minera.,
+    país: Estados Unidos,
+    release_date: 1986-07-15,
+    rating: 4.8,
+    duracion: 107,
+    movie_id: 42,
+    nombre: Aliens
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:54
+}"
+"{
+  identity: 19,
+  labels: [Actor],
+  properties: {
+    dob: 1971-01-07,
+    apellido: Renner,
+    actor_id: 2,
+    sexo: Masculino,
+    nombre: Jeremy,
+    edad: 52
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:19
+}","{
+  identity: 60,
+  start: 19,
+  end: 50,
+  type: actuo,
+  properties: {
+    personaje: Hawkeye,
+    rol: secundario
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:60,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:19,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:50
+}","{
+  identity: 50,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tony Stark quiere lanzar un nuevo programa de paz, pero algo sale mal y acaba creando a Ultrón, un robot que quiere destruir a la humanidad. Thor, Hulk y el resto de los Vengadores deberán juntar sus fuerzas una vez más para luchar contra el robot. En su camino para destruir Ultrón, los Vengadores conocerán a dos nuevos misteriosos compañeros, Pietro y Wanda Maximoff, conocidos como Quicksilver y Bruja Escarlata.,
+    país: Estados Unidos,
+    release_date: 2015-05-01,
+    rating: 4.0,
+    duracion: 141,
+    movie_id: 29,
+    nombre: Avengers: Age of Ultron
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:50
+}"
+"{
+  identity: 69,
+  labels: [Usuario],
+  properties: {
+    apellido: Ruiz,
+    nombre: María,
+    contraseña: password,
+    username: MaRu13
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:69
+}","{
+  identity: 75,
+  start: 69,
+  end: 56,
+  type: gusta,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:75,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:69,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:56
+}","{
+  identity: 56,
+  labels: [Genero],
+  properties: {
+    nombre: Horror
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:56
+}"
+"{
+  identity: 69,
+  labels: [Usuario],
+  properties: {
+    apellido: Ruiz,
+    nombre: María,
+    contraseña: password,
+    username: MaRu13
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:69
+}","{
+  identity: 76,
+  start: 69,
+  end: 43,
+  type: gusta,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:76,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:69,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:43
+}","{
+  identity: 43,
+  labels: [Genero],
+  properties: {
+    nombre: Drama
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:43
+}"
+"{
+  identity: 30,
+  labels: [Usuario],
+  properties: {
+    apellido: Vallecillos,
+    nombre: Roberto,
+    contraseña: 123456789,
+    username: Roberto-VC
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:30
+}","{
+  identity: 77,
+  start: 30,
+  end: 25,
+  type: gusta,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:77,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:30,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:25
+}","{
+  identity: 25,
+  labels: [Genero],
+  properties: {
+    nombre: Acción
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:25
+}"
+"{
+  identity: 30,
+  labels: [Usuario],
+  properties: {
+    apellido: Vallecillos,
+    nombre: Roberto,
+    contraseña: 123456789,
+    username: Roberto-VC
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:30
+}","{
+  identity: 78,
+  start: 30,
+  end: 65,
+  type: gusta,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:78,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:30,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:65
+}","{
+  identity: 65,
+  labels: [Genero],
+  properties: {
+    nombre: Aventura
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:65
+}"
+"{
+  identity: 31,
+  labels: [Usuario],
+  properties: {
+    apellido: Cordova,
+    nombre: Diego,
+    contraseña: 123456789,
+    username: nes-12354
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:31
+}","{
+  identity: 79,
+  start: 31,
+  end: 24,
+  type: gusta,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:79,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:31,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:24
+}","{
+  identity: 24,
+  labels: [Genero],
+  properties: {
+    nombre: Ciencia Ficción
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:24
+}"
+"{
+  identity: 31,
+  labels: [Usuario],
+  properties: {
+    apellido: Cordova,
+    nombre: Diego,
+    contraseña: 123456789,
+    username: nes-12354
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:31
+}","{
+  identity: 80,
+  start: 31,
+  end: 59,
+  type: gusta,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:80,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:31,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:59
+}","{
+  identity: 59,
+  labels: [Genero],
+  properties: {
+    nombre: Misterio
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:59
+}"
+"{
+  identity: 48,
+  labels: [Usuario],
+  properties: {
+    apellido: Asencio,
+    nombre: Marco,
+    contraseña: MAS120,
+    username: MCHam
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:48
+}","{
+  identity: 81,
+  start: 48,
+  end: 47,
+  type: gusta,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:81,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:48,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:47
+}","{
+  identity: 47,
+  labels: [Genero],
+  properties: {
+    nombre: Romance
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:47
+}"
+"{
+  identity: 48,
+  labels: [Usuario],
+  properties: {
+    apellido: Asencio,
+    nombre: Marco,
+    contraseña: MAS120,
+    username: MCHam
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:48
+}","{
+  identity: 82,
+  start: 48,
+  end: 38,
+  type: gusta,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:82,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:48,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:38
+}","{
+  identity: 38,
+  labels: [Genero],
+  properties: {
+    nombre: Comedia
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:38
+}"
+"{
+  identity: 37,
+  labels: [Actor],
+  properties: {
+    dob: 1967-07-16,
+    apellido: Ferell,
+    actor_id: 10,
+    sexo: Masculino,
+    nombre: Will,
+    edad: 54
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:37
+}","{
+  identity: 83,
+  start: 37,
+  end: 34,
+  type: actuo,
+  properties: {
+    personaje: Buddy,
+    rol: principal
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:83,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:37,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:34
+}","{
+  identity: 34,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Aunque ha sido adoptado y educado como un duende de Papá Noel, Buddy quiere conocer a su verdadera familia y, en Navidad, se dirige a Nueva York.,
+    país: Estados Unidos,
+    release_date: 2003-11-06,
+    rating: 4.2,
+    duracion: 96,
+    movie_id: 5,
+    nombre: Elf
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:34
+}"
+"{
+  identity: 41,
+  labels: [Actor, Director],
+  properties: {
+    dob: 1963-03-27,
+    apellido: Tarantino,
+    actor_id: 20,
+    sexo: Masculino,
+    edad: 60,
+    nombre: Quentin,
+    director_id: 12
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:41
+}","{
+  identity: 84,
+  start: 41,
+  end: 42,
+  type: actuo,
+  properties: {
+    personaje: Jimmie Dimmick	,
+    rol: secundario
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:84,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:41,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:42
+}","{
+  identity: 42,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Historias de dos matones, un boxeador y una pareja de atracadores de poca monta envueltos en una violencia espectacular e irónica.,
+    país: Estados Unidos,
+    release_date: 1994-10-14,
+    rating: 4.8,
+    duracion: 154,
+    movie_id: 9,
+    nombre: Pulp Fiction
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:42
+}"
+"{
+  identity: 44,
+  labels: [Pelicula],
+  properties: {
+    descripcion: A finales de los 60, Hollywood empieza a cambiar y el actor Rick Dalton tratará de seguir el cambio. Junto a su doble, ambos verán como sus raíces les complican el cambio, y al mismo tiempo su relación con la actriz Sharon Tate, que fue víctima de los Manson en la matanza de 1969, y que esta acaba de casarse con el prestigioso director Roman Polanski.,
+    país: Estados Unidos,
+    release_date: 2019-07-26,
+    rating: 4.4,
+    duracion: 161,
+    movie_id: 14,
+    nombre: Once Upon a Time in Hollywood
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44
+}","{
+  identity: 87,
+  start: 44,
+  end: 43,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:87,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:43
+}","{
+  identity: 43,
+  labels: [Genero],
+  properties: {
+    nombre: Drama
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:43
+}"
+"{
+  identity: 44,
+  labels: [Pelicula],
+  properties: {
+    descripcion: A finales de los 60, Hollywood empieza a cambiar y el actor Rick Dalton tratará de seguir el cambio. Junto a su doble, ambos verán como sus raíces les complican el cambio, y al mismo tiempo su relación con la actriz Sharon Tate, que fue víctima de los Manson en la matanza de 1969, y que esta acaba de casarse con el prestigioso director Roman Polanski.,
+    país: Estados Unidos,
+    release_date: 2019-07-26,
+    rating: 4.4,
+    duracion: 161,
+    movie_id: 14,
+    nombre: Once Upon a Time in Hollywood
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44
+}","{
+  identity: 88,
+  start: 44,
+  end: 38,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:88,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:38
+}","{
+  identity: 38,
+  labels: [Genero],
+  properties: {
+    nombre: Comedia
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:38
+}"
+"{
+  identity: 21,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Doce naves extraterrestres comienzan a llegar a nuestro planeta. Los altos mandos militares piden ayuda a una experta lingüista para intentar averiguar si los alienígenas vienen en son de paz o suponen una amenaza. Poco a poco la mujer intentará aprender a comunicarse con los extraños invasores, poseedores de un lenguaje propio, para dar con la verdadera y misteriosa razón de la visita extraterrestre.,
+    país: Estados Unidos,
+    release_date: 2016-06-11,
+    rating: 4.6,
+    duracion: 116,
+    movie_id: 2,
+    nombre: Arrival
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:21
+}","{
+  identity: 89,
+  start: 21,
+  end: 43,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:89,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:21,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:43
+}","{
+  identity: 43,
+  labels: [Genero],
+  properties: {
+    nombre: Drama
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:43
+}"
+"{
+  identity: 23,
+  labels: [Pelicula],
+  properties: {
+    descripcion: El director de la Agencia SHIELD decide reclutar a un equipo para salvar al mundo de un desastre casi seguro cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial.,
+    país: Estados Unidos,
+    release_date: 2012-05-04,
+    rating: 4.5,
+    duracion: 143,
+    movie_id: 1,
+    nombre: The Avengers
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:23
+}","{
+  identity: 90,
+  start: 23,
+  end: 25,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:90,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:23,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:25
+}","{
+  identity: 25,
+  labels: [Genero],
+  properties: {
+    nombre: Acción
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:25
+}"
+"{
+  identity: 33,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tony Stark es un inventor de armamento brillante que es secuestrado en el extranjero. Sus captores son unos terroristas que le obligan a construir una máquina destructiva pero Tony se construirá una armadura para poder enfrentarse a ellos y escapar.,
+    país: Estados Unidos,
+    release_date: 2008-05-02,
+    rating: 4.5,
+    duracion: 143,
+    movie_id: 4,
+    nombre: Iron Man
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:33
+}","{
+  identity: 91,
+  start: 33,
+  end: 25,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:91,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:33,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:25
+}","{
+  identity: 25,
+  labels: [Genero],
+  properties: {
+    nombre: Acción
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:25
+}"
+"{
+  identity: 34,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Aunque ha sido adoptado y educado como un duende de Papá Noel, Buddy quiere conocer a su verdadera familia y, en Navidad, se dirige a Nueva York.,
+    país: Estados Unidos,
+    release_date: 2003-11-06,
+    rating: 4.2,
+    duracion: 96,
+    movie_id: 5,
+    nombre: Elf
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:34
+}","{
+  identity: 92,
+  start: 34,
+  end: 38,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:92,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:34,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:38
+}","{
+  identity: 38,
+  labels: [Genero],
+  properties: {
+    nombre: Comedia
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:38
+}"
+"{
+  identity: 35,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Sherlock Holmes y su incondicional compañero Watson, deberán usar su agudeza intelectual y toda clase de recursos y habilidades para enfrentarse a un nuevo enemigo y desenmarañar un complot que podría destruir el país. Adaptación del cómic de Lionel Wigram, que reinventa los personajes de Arthur Conan Doyle, convirtiendo a Sherlock Holmes y al Doctor John Watson en detectives con habilidades para el boxeo y la esgrima respectivamente.,
+    país: Estados Unidos,
+    release_date: 2009-12-25,
+    rating: 4.0,
+    duracion: 128,
+    movie_id: 8,
+    nombre: Sherlock Holmes
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:35
+}","{
+  identity: 93,
+  start: 35,
+  end: 59,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:93,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:35,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:59
+}","{
+  identity: 59,
+  labels: [Genero],
+  properties: {
+    nombre: Misterio
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:59
+}"
+"{
+  identity: 46,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Jack es un joven artista que gana un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo del buque conoce a Rose, una chica de clase alta que viaja con su madre y su prometido Cal, un millonario engreído a quien solo interesa el prestigio de la familia de su prometida. Jack y Rose se enamoran a pesar de las trabas que ponen la madre de ella y Cal en su relación. Mientras, el lujoso transatlántico se acerca a un inmenso iceberg.,
+    país: Estados Unidos,
+    release_date: 1997-12-19,
+    rating: 4.4,
+    duracion: 161,
+    movie_id: 14,
+    nombre: Titanic
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:46
+}","{
+  identity: 94,
+  start: 46,
+  end: 47,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:94,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:46,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:47
+}","{
+  identity: 47,
+  labels: [Genero],
+  properties: {
+    nombre: Romance
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:47
+}"
+"{
+  identity: 50,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tony Stark quiere lanzar un nuevo programa de paz, pero algo sale mal y acaba creando a Ultrón, un robot que quiere destruir a la humanidad. Thor, Hulk y el resto de los Vengadores deberán juntar sus fuerzas una vez más para luchar contra el robot. En su camino para destruir Ultrón, los Vengadores conocerán a dos nuevos misteriosos compañeros, Pietro y Wanda Maximoff, conocidos como Quicksilver y Bruja Escarlata.,
+    país: Estados Unidos,
+    release_date: 2015-05-01,
+    rating: 4.0,
+    duracion: 141,
+    movie_id: 29,
+    nombre: Avengers: Age of Ultron
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:50
+}","{
+  identity: 95,
+  start: 50,
+  end: 25,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:95,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:50,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:25
+}","{
+  identity: 25,
+  labels: [Genero],
+  properties: {
+    nombre: Acción
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:25
+}"
+"{
+  identity: 51,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Con el mundo ahora consciente de que él es Iron Man, el millonario inventor Tony Stark debe forjar nuevas alianzas y enfrentarse a un nuevo y poderoso enemigo.,
+    país: Estados Unidos,
+    release_date: 2010-05-08,
+    rating: 3.9,
+    duracion: 125,
+    movie_id: 19,
+    nombre: Iron Man 2
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:51
+}","{
+  identity: 96,
+  start: 51,
+  end: 25,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:96,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:51,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:25
+}","{
+  identity: 25,
+  labels: [Genero],
+  properties: {
+    nombre: Acción
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:25
+}"
+"{
+  identity: 52,
+  labels: [Pelicula],
+  properties: {
+    descripcion: En el año 2029 las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para eliminarlo y así acabar con la rebelión, las máquinas envían al pasado el robot Terminator con la misión de matar a Sarah Connor, la madre de John, e impedir así su nacimiento. Sin embargo, un hombre del futuro intentará protegerla.,
+    país: Estados Unidos,
+    release_date: 1984-10-26,
+    rating: 4.2,
+    duracion: 107,
+    movie_id: 45,
+    nombre: The Terminator
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:52
+}","{
+  identity: 97,
+  start: 52,
+  end: 56,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:97,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:52,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:56
+}","{
+  identity: 56,
+  labels: [Genero],
+  properties: {
+    nombre: Horror
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:56
+}"
+"{
+  identity: 52,
+  labels: [Pelicula],
+  properties: {
+    descripcion: En el año 2029 las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para eliminarlo y así acabar con la rebelión, las máquinas envían al pasado el robot Terminator con la misión de matar a Sarah Connor, la madre de John, e impedir así su nacimiento. Sin embargo, un hombre del futuro intentará protegerla.,
+    país: Estados Unidos,
+    release_date: 1984-10-26,
+    rating: 4.2,
+    duracion: 107,
+    movie_id: 45,
+    nombre: The Terminator
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:52
+}","{
+  identity: 98,
+  start: 52,
+  end: 24,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:98,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:52,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:24
+}","{
+  identity: 24,
+  labels: [Genero],
+  properties: {
+    nombre: Ciencia Ficción
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:24
+}"
+"{
+  identity: 53,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Algunos años antes, un viajero del tiempo le reveló a la madre de John que su hijo sería el salvador de la humanidad. Cuando un nuevo androide mejorado llega del futuro para asesinar a John, un viejo modelo será enviado para protegerle.,
+    país: Estados Unidos,
+    release_date: 1991-07-03,
+    rating: 4.8,
+    duracion: 107,
+    movie_id: 44,
+    nombre: Terminator 2: Judgment Day
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:53
+}","{
+  identity: 99,
+  start: 53,
+  end: 25,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:99,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:53,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:25
+}","{
+  identity: 25,
+  labels: [Genero],
+  properties: {
+    nombre: Acción
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:25
+}"
+"{
+  identity: 53,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Algunos años antes, un viajero del tiempo le reveló a la madre de John que su hijo sería el salvador de la humanidad. Cuando un nuevo androide mejorado llega del futuro para asesinar a John, un viejo modelo será enviado para protegerle.,
+    país: Estados Unidos,
+    release_date: 1991-07-03,
+    rating: 4.8,
+    duracion: 107,
+    movie_id: 44,
+    nombre: Terminator 2: Judgment Day
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:53
+}","{
+  identity: 100,
+  start: 53,
+  end: 24,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:100,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:53,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:24
+}","{
+  identity: 24,
+  labels: [Genero],
+  properties: {
+    nombre: Ciencia Ficción
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:24
+}"
+"{
+  identity: 54,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tras escapar de la nave Nostromo, la teniente Ripley tiene que enfrentarse de nuevo a los aliens en una colonia minera.,
+    país: Estados Unidos,
+    release_date: 1986-07-15,
+    rating: 4.8,
+    duracion: 107,
+    movie_id: 42,
+    nombre: Aliens
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:54
+}","{
+  identity: 101,
+  start: 54,
+  end: 25,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:101,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:54,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:25
+}","{
+  identity: 25,
+  labels: [Genero],
+  properties: {
+    nombre: Acción
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:25
+}"
+"{
+  identity: 54,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tras escapar de la nave Nostromo, la teniente Ripley tiene que enfrentarse de nuevo a los aliens en una colonia minera.,
+    país: Estados Unidos,
+    release_date: 1986-07-15,
+    rating: 4.8,
+    duracion: 107,
+    movie_id: 42,
+    nombre: Aliens
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:54
+}","{
+  identity: 102,
+  start: 54,
+  end: 24,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:102,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:54,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:24
+}","{
+  identity: 24,
+  labels: [Genero],
+  properties: {
+    nombre: Ciencia Ficción
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:24
+}"
+"{
+  identity: 55,
+  labels: [Pelicula],
+  properties: {
+    descripcion: La tripulación del remolcador espacial Nostromo atiende una señal de socorro y, sin saberlo, sube a bordo una letal forma de vida extraterrestre.,
+    país: Estados Unidos,
+    release_date: 1979-09-06,
+    rating: 4.7,
+    duracion: 117,
+    movie_id: 42,
+    nombre: Alien
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:55
+}","{
+  identity: 103,
+  start: 55,
+  end: 24,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:103,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:55,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:24
+}","{
+  identity: 24,
+  labels: [Genero],
+  properties: {
+    nombre: Ciencia Ficción
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:24
+}"
+"{
+  identity: 55,
+  labels: [Pelicula],
+  properties: {
+    descripcion: La tripulación del remolcador espacial Nostromo atiende una señal de socorro y, sin saberlo, sube a bordo una letal forma de vida extraterrestre.,
+    país: Estados Unidos,
+    release_date: 1979-09-06,
+    rating: 4.7,
+    duracion: 117,
+    movie_id: 42,
+    nombre: Alien
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:55
+}","{
+  identity: 104,
+  start: 55,
+  end: 56,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:104,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:55,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:56
+}","{
+  identity: 56,
+  labels: [Genero],
+  properties: {
+    nombre: Horror
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:56
+}"
+"{
+  identity: 58,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Al final del siglo XX, miles de hombres y mujeres dejaron la Tierra para conquistar el espacio y escapar de las grandes ciudades, que se habían vuelto inhabitables. En las colonias nació una nueva raza de esclavos androides llamados 'Replicantes'. Los nuevos androides son parecidos al hombre, pero superiores en fuerza y agilidad. Después de una revolución, el antiguo policía Rick Deckard debe encontrar y eliminar a los replicantes rebeldes.,
+    país: Estados Unidos,
+    release_date: 1982-06-25,
+    rating: 4.5,
+    duracion: 117,
+    movie_id: 82,
+    nombre: Blade Runner
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:58
+}","{
+  identity: 105,
+  start: 58,
+  end: 43,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:105,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:58,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:43
+}","{
+  identity: 43,
+  labels: [Genero],
+  properties: {
+    nombre: Drama
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:43
+}"
+"{
+  identity: 62,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Después de una infructuosa misión en Sudamérica, el Gobierno estadounidense encarga al arqueólogo Indiana Jones la búsqueda del Arca de la Alianza, una reliquia bíblica que contiene los diez mandamientos y que convierte en invencible a su portador. Jones deberá enfrentarse a los nazis para adquirir este precioso objeto.,
+    país: Estados Unidos,
+    release_date: 1981-06-12,
+    rating: 4.5,
+    duracion: 115,
+    movie_id: 78,
+    nombre: Indiana Jones and Raiders of the Lost Ark
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:62
+}","{
+  identity: 106,
+  start: 62,
+  end: 65,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:106,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:62,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:65
+}","{
+  identity: 65,
+  labels: [Genero],
+  properties: {
+    nombre: Aventura
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:65
+}"
+"{
+  identity: 63,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tras salir vivo de milagro de una peligrosa aventura en Shanghai, Indiana Jones llega a un remoto poblado en la India, acompañado de dos involuntarios compañeros de viaje: Willie, una cantante de cabaret, y un chaval de 12 años llamado Tapón.,
+    país: Estados Unidos,
+    release_date: 1984-05-23,
+    rating: 4.3,
+    duracion: 118,
+    movie_id: 77,
+    nombre: Indiana Jones and The Temple of Doom
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:63
+}","{
+  identity: 107,
+  start: 63,
+  end: 65,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:107,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:63,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:65
+}","{
+  identity: 65,
+  labels: [Genero],
+  properties: {
+    nombre: Aventura
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:65
+}"
+"{
+  identity: 64,
+  labels: [Pelicula],
+  properties: {
+    descripcion: En esta tercera entrega, el padre del protagonista, Henry Jones, también arqueólogo, es secuestrado cuando buscaba el Santo Grial. Indiana tendrá que ir a rescatarlo y, de paso, intentar hacerse con la preciada reliquia, que también ambicionan los nazis.,
+    país: Estados Unidos,
+    release_date: 1989-05-24,
+    rating: 4.4,
+    duracion: 128,
+    movie_id: 71,
+    nombre: Indiana Jones and The Last Crusade
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:64
+}","{
+  identity: 108,
+  start: 64,
+  end: 65,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:108,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:64,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:65
+}","{
+  identity: 65,
+  labels: [Genero],
+  properties: {
+    nombre: Aventura
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:65
+}"
+"{
+  identity: 70,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Tras la rebelión de los replicantes creados por bioingeniería para ser utilizados como mano de obra esclava y la prohibición a Tyrell Corporation de seguir con su fabricación, el empresario Niander Wallace adquirió lo que quedaba de Tyrell Corp. y creó una nueva línea de replicantes mucho más obedientes. Ahora, en el año 2049, los viejos modelos Nexus 8 que continúan con vida están siendo retirados. Los que les persiguen aún reciben el nombre de Blade Runner.,
+    país: Estados Unidos,
+    release_date: 2017-10-06,
+    rating: 4.6,
+    duracion: 163,
+    movie_id: 100,
+    nombre: Blade Runner 2049
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:70
+}","{
+  identity: 109,
+  start: 70,
+  end: 43,
+  type: pertenece,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:109,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:70,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:43
+}","{
+  identity: 43,
+  labels: [Genero],
+  properties: {
+    nombre: Drama
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:43
+}"
+"{
+  identity: 41,
+  labels: [Actor, Director],
+  properties: {
+    dob: 1963-03-27,
+    apellido: Tarantino,
+    actor_id: 20,
+    sexo: Masculino,
+    edad: 60,
+    nombre: Quentin,
+    director_id: 12
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:41
+}","{
+  identity: 110,
+  start: 41,
+  end: 44,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:110,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:41,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44
+}","{
+  identity: 44,
+  labels: [Pelicula],
+  properties: {
+    descripcion: A finales de los 60, Hollywood empieza a cambiar y el actor Rick Dalton tratará de seguir el cambio. Junto a su doble, ambos verán como sus raíces les complican el cambio, y al mismo tiempo su relación con la actriz Sharon Tate, que fue víctima de los Manson en la matanza de 1969, y que esta acaba de casarse con el prestigioso director Roman Polanski.,
+    país: Estados Unidos,
+    release_date: 2019-07-26,
+    rating: 4.4,
+    duracion: 161,
+    movie_id: 14,
+    nombre: Once Upon a Time in Hollywood
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44
+}"
+"{
+  identity: 41,
+  labels: [Actor, Director],
+  properties: {
+    dob: 1963-03-27,
+    apellido: Tarantino,
+    actor_id: 20,
+    sexo: Masculino,
+    edad: 60,
+    nombre: Quentin,
+    director_id: 12
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:41
+}","{
+  identity: 111,
+  start: 41,
+  end: 42,
+  type: dirijio,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:111,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:41,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:42
+}","{
+  identity: 42,
+  labels: [Pelicula],
+  properties: {
+    descripcion: Historias de dos matones, un boxeador y una pareja de atracadores de poca monta envueltos en una violencia espectacular e irónica.,
+    país: Estados Unidos,
+    release_date: 1994-10-14,
+    rating: 4.8,
+    duracion: 154,
+    movie_id: 9,
+    nombre: Pulp Fiction
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:42
+}"
+"{
+  identity: 69,
+  labels: [Usuario],
+  properties: {
+    apellido: Ruiz,
+    nombre: María,
+    contraseña: password,
+    username: MaRu13
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:69
+}","{
+  identity: 112,
+  start: 69,
+  end: 44,
+  type: vio,
+  properties: {
+    Terminada: true,
+    Favorita: true,
+    Rating: 10,
+    Comentarios: [Mejor Pelicula!, Amo esta director!]
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:112,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:69,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44
+}","{
+  identity: 44,
+  labels: [Pelicula],
+  properties: {
+    descripcion: A finales de los 60, Hollywood empieza a cambiar y el actor Rick Dalton tratará de seguir el cambio. Junto a su doble, ambos verán como sus raíces les complican el cambio, y al mismo tiempo su relación con la actriz Sharon Tate, que fue víctima de los Manson en la matanza de 1969, y que esta acaba de casarse con el prestigioso director Roman Polanski.,
+    país: Estados Unidos,
+    release_date: 2019-07-26,
+    rating: 4.4,
+    duracion: 161,
+    movie_id: 14,
+    nombre: Once Upon a Time in Hollywood
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44
+}"
+"{
+  identity: 69,
+  labels: [Usuario],
+  properties: {
+    apellido: Ruiz,
+    nombre: María,
+    contraseña: password,
+    username: MaRu13
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:69
+}","{
+  identity: 113,
+  start: 69,
+  end: 55,
+  type: vio,
+  properties: {
+    Terminada: true,
+    Favorita: true,
+    Rating: 8,
+    Comentarios: [Esta muy vieja la pelicula., Buena atmosfera, y da miedo el Alien]
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:113,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:69,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:55
+}","{
+  identity: 55,
+  labels: [Pelicula],
+  properties: {
+    descripcion: La tripulación del remolcador espacial Nostromo atiende una señal de socorro y, sin saberlo, sube a bordo una letal forma de vida extraterrestre.,
+    país: Estados Unidos,
+    release_date: 1979-09-06,
+    rating: 4.7,
+    duracion: 117,
+    movie_id: 42,
+    nombre: Alien
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:55
+}"
+"{
+  identity: 44,
+  labels: [Pelicula],
+  properties: {
+    descripcion: A finales de los 60, Hollywood empieza a cambiar y el actor Rick Dalton tratará de seguir el cambio. Junto a su doble, ambos verán como sus raíces les complican el cambio, y al mismo tiempo su relación con la actriz Sharon Tate, que fue víctima de los Manson en la matanza de 1969, y que esta acaba de casarse con el prestigioso director Roman Polanski.,
+    país: Estados Unidos,
+    release_date: 2019-07-26,
+    rating: 4.4,
+    duracion: 161,
+    movie_id: 14,
+    nombre: Once Upon a Time in Hollywood
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44
+}","{
+  identity: 114,
+  start: 44,
+  end: 28,
+  type: nominacion,
+  properties: {
+    categoria: Mejor Película,
+    ganador: false
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:114,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:28
+}","{
+  identity: 28,
+  labels: [Premio],
+  properties: {
+    nombre: Academy Awards
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:28
+}"
+"{
+  identity: 68,
+  labels: [Actor],
+  properties: {
+    dob: 1942-12-18,
+    apellido: Pitt,
+    actor_id: 26,
+    sexo: Masculino,
+    edad: 59,
+    nombre: Brad
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:68
+}","{
+  identity: 118,
+  start: 68,
+  end: 29,
+  type: nominacion,
+  properties: {
+    categoria: Mejor Actor de Reparto,
+    ganador: true
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:118,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:68,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:29
+}","{
+  identity: 29,
+  labels: [Premio],
+  properties: {
+    nombre: BAFTA
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:29
+}"
+"{
+  identity: 44,
+  labels: [Pelicula],
+  properties: {
+    descripcion: A finales de los 60, Hollywood empieza a cambiar y el actor Rick Dalton tratará de seguir el cambio. Junto a su doble, ambos verán como sus raíces les complican el cambio, y al mismo tiempo su relación con la actriz Sharon Tate, que fue víctima de los Manson en la matanza de 1969, y que esta acaba de casarse con el prestigioso director Roman Polanski.,
+    país: Estados Unidos,
+    release_date: 2019-07-26,
+    rating: 4.4,
+    duracion: 161,
+    movie_id: 14,
+    nombre: Once Upon a Time in Hollywood
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44
+}","{
+  identity: 119,
+  start: 44,
+  end: 29,
+  type: nominacion,
+  properties: {
+    categoria: Mejor Pelicula,
+    ganador: false
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:119,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:29
+}","{
+  identity: 29,
+  labels: [Premio],
+  properties: {
+    nombre: BAFTA
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:29
+}"
+"{
+  identity: 44,
+  labels: [Pelicula],
+  properties: {
+    descripcion: A finales de los 60, Hollywood empieza a cambiar y el actor Rick Dalton tratará de seguir el cambio. Junto a su doble, ambos verán como sus raíces les complican el cambio, y al mismo tiempo su relación con la actriz Sharon Tate, que fue víctima de los Manson en la matanza de 1969, y que esta acaba de casarse con el prestigioso director Roman Polanski.,
+    país: Estados Unidos,
+    release_date: 2019-07-26,
+    rating: 4.4,
+    duracion: 161,
+    movie_id: 14,
+    nombre: Once Upon a Time in Hollywood
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44
+}","{
+  identity: 120,
+  start: 44,
+  end: 28,
+  type: nominacion,
+  properties: {
+    categoria: Mejor Pelicula,
+    ganador: false
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:120,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:28
+}","{
+  identity: 28,
+  labels: [Premio],
+  properties: {
+    nombre: Academy Awards
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:28
+}"
+"{
+  identity: 44,
+  labels: [Pelicula],
+  properties: {
+    descripcion: A finales de los 60, Hollywood empieza a cambiar y el actor Rick Dalton tratará de seguir el cambio. Junto a su doble, ambos verán como sus raíces les complican el cambio, y al mismo tiempo su relación con la actriz Sharon Tate, que fue víctima de los Manson en la matanza de 1969, y que esta acaba de casarse con el prestigioso director Roman Polanski.,
+    país: Estados Unidos,
+    release_date: 2019-07-26,
+    rating: 4.4,
+    duracion: 161,
+    movie_id: 14,
+    nombre: Once Upon a Time in Hollywood
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44
+}","{
+  identity: 121,
+  start: 44,
+  end: 39,
+  type: nominacion,
+  properties: {
+    categoria: Mejor Musical o Comedia,
+    ganador: true
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:121,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:44,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:39
+}","{
+  identity: 39,
+  labels: [Premio],
+  properties: {
+    nombre: Golden Globe
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:39
+}"
+"{
+  identity: 41,
+  labels: [Actor, Director],
+  properties: {
+    dob: 1963-03-27,
+    apellido: Tarantino,
+    actor_id: 20,
+    sexo: Masculino,
+    edad: 60,
+    nombre: Quentin,
+    director_id: 12
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:41
+}","{
+  identity: 122,
+  start: 41,
+  end: 28,
+  type: nominacion,
+  properties: {
+    categoria: Mejor Director,
+    ganador: false
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:122,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:41,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:28
+}","{
+  identity: 28,
+  labels: [Premio],
+  properties: {
+    nombre: Academy Awards
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:28
+}"
+"{
+  identity: 41,
+  labels: [Actor, Director],
+  properties: {
+    dob: 1963-03-27,
+    apellido: Tarantino,
+    actor_id: 20,
+    sexo: Masculino,
+    edad: 60,
+    nombre: Quentin,
+    director_id: 12
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:41
+}","{
+  identity: 123,
+  start: 41,
+  end: 28,
+  type: nominacion,
+  properties: {
+    categoria: Mejor Director,
+    ganador: true
+  },
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:123,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:41,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:28
+}","{
+  identity: 28,
+  labels: [Premio],
+  properties: {
+    nombre: Academy Awards
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:28
+}"
+"{
+  identity: 30,
+  labels: [Usuario],
+  properties: {
+    apellido: Vallecillos,
+    nombre: Roberto,
+    contraseña: 123456789,
+    username: Roberto-VC
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:30
+}","{
+  identity: 124,
+  start: 30,
+  end: 66,
+  type: favorito,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:124,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:30,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:66
+}","{
+  identity: 66,
+  labels: [Director],
+  properties: {
+    dob: 1946-12-18,
+    apellido: Spielberg,
+    sexo: Masculino,
+    nombre: Steven,
+    edad: 76,
+    director_id: 50
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:66
+}"
+"{
+  identity: 30,
+  labels: [Usuario],
+  properties: {
+    apellido: Vallecillos,
+    nombre: Roberto,
+    contraseña: 123456789,
+    username: Roberto-VC
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:30
+}","{
+  identity: 125,
+  start: 30,
+  end: 61,
+  type: favorito,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:125,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:30,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:61
+}","{
+  identity: 61,
+  labels: [Actor],
+  properties: {
+    dob: 1942-07-13,
+    apellido: Ford,
+    actor_id: 68,
+    sexo: Masculino,
+    nombre: Harrison,
+    edad: 80
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:61
+}"
+"{
+  identity: 30,
+  labels: [Usuario],
+  properties: {
+    apellido: Vallecillos,
+    nombre: Roberto,
+    contraseña: 123456789,
+    username: Roberto-VC
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:30
+}","{
+  identity: 126,
+  start: 30,
+  end: 19,
+  type: favorito,
+  properties: {},
+  elementId: 5:afa12a14-8fa4-40d5-8289-a68ef890eeb9:126,
+  startNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:30,
+  endNodeElementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:19
+}","{
+  identity: 19,
+  labels: [Actor],
+  properties: {
+    dob: 1971-01-07,
+    apellido: Renner,
+    actor_id: 2,
+    sexo: Masculino,
+    nombre: Jeremy,
+    edad: 52
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:19
+}"
