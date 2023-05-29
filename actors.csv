@@ -1,0 +1,132 @@
+n
+"{
+  identity: 19,
+  labels: [Actor],
+  properties: {
+    dob: 1971-01-07,
+    apellido: Renner,
+    actor_id: 2,
+    sexo: Masculino,
+    nombre: Jeremy,
+    edad: 52
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:19
+}"
+"{
+  identity: 22,
+  labels: [Actor],
+  properties: {
+    dob: 1965-04-04,
+    apellido: Downey Jr.,
+    actor_id: 1,
+    sexo: Masculino,
+    nombre: Robert,
+    edad: 58
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:22
+}"
+"{
+  identity: 32,
+  labels: [Actor, Director],
+  properties: {
+    dob: 1966-10-19,
+    apellido: Favreu,
+    actor_id: 3,
+    edad: 56,
+    nombre: Jon,
+    director_id: 3
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:32
+}"
+"{
+  identity: 37,
+  labels: [Actor],
+  properties: {
+    dob: 1967-07-16,
+    apellido: Ferell,
+    actor_id: 10,
+    sexo: Masculino,
+    nombre: Will,
+    edad: 54
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:37
+}"
+"{
+  identity: 40,
+  labels: [Actor],
+  properties: {
+    dob: 1948-12-21,
+    apellido: Jackson,
+    actor_id: 12,
+    sexo: Masculino,
+    nombre: Samuel,
+    edad: 74
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:40
+}"
+"{
+  identity: 41,
+  labels: [Actor, Director],
+  properties: {
+    dob: 1963-03-27,
+    apellido: Tarantino,
+    actor_id: 20,
+    sexo: Masculino,
+    edad: 60,
+    nombre: Quentin,
+    director_id: 12
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:41
+}"
+"{
+  identity: 45,
+  labels: [Actor],
+  properties: {
+    dob: 1974-11-11,
+    apellido: DiCaprio,
+    actor_id: 22,
+    sexo: Masculino,
+    nombre: Leonardo,
+    edad: 48
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:45
+}"
+"{
+  identity: 60,
+  labels: [Actor],
+  properties: {
+    dob: 1949-10-08,
+    apellido: Weaver,
+    actor_id: 69,
+    sexo: Femenino,
+    nombre: Sigourney,
+    edad: 73
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:60
+}"
+"{
+  identity: 61,
+  labels: [Actor],
+  properties: {
+    dob: 1942-07-13,
+    apellido: Ford,
+    actor_id: 68,
+    sexo: Masculino,
+    nombre: Harrison,
+    edad: 80
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:61
+}"
+"{
+  identity: 68,
+  labels: [Actor],
+  properties: {
+    dob: 1942-12-18,
+    apellido: Pitt,
+    actor_id: 26,
+    sexo: Masculino,
+    edad: 59,
+    nombre: Brad
+  },
+  elementId: 4:afa12a14-8fa4-40d5-8289-a68ef890eeb9:68
+}"
